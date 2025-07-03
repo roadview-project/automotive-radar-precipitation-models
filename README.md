@@ -7,6 +7,9 @@ Contains analysis of unit volume RCS, effect of range on detection bin volume, a
 2. points_on_sphere.m
 Contains analysis on the effect of angular position on detection bin volume/probability of finding a drop in some specific angular bin/region. It also contains analysis showing the pdf of one single drop over velocity bins.
 
+# Publications 
+These models were used in the work to be presented as "Rain Reflectivity Distribution and Detectability in Automotive Radar" at the 2025 IEEE 28th International Conference on Intelligent Transportation Systems (ITSC 2025)
+
 # Acknowledgment
 Co-Funded by the European Union (grant no. 101069576). Views and opinions expressed are however those
 of the author(s) only and do not necessarily reflect those of the European Union or the European Climate,
